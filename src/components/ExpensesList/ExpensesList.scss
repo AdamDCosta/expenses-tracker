@@ -1,0 +1,12 @@
+@use "../../assets/styles/variables" as *;
+@use "../../assets/styles/mixins" as *;
+
+.expenses-list {
+  list-style: none;
+  padding: 0;
+  
+  &__fallback {
+    color: $color-white;
+    text-align: center;
+  }
+}

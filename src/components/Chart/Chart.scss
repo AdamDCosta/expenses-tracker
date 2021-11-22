@@ -1,0 +1,12 @@
+@use "../../assets/styles/variables" as *;
+@use "../../assets/styles/mixins" as *;
+
+.chart {
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: $color-chart-background;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 10rem;
+}
