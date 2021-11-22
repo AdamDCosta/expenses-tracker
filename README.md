@@ -2,7 +2,7 @@
 
 An expenses tracker built in React. Styled with SASS using BEM naming conventions.
 
-![Expenses tracker app](src\assets\images\expenses-tracker.png)
+![Expenses tracker app]("https://github.com/AdamDCosta/expenses-tracker/blob/main/src/assets/images/expenses-tracker.png")
 
 ## About
 
